@@ -6,5 +6,5 @@ TODO - Ximena
 # Data Pre-processing
 TODO - Ximena
 # Model Building   
-TODO - Shaw
-[model](./project_decision_tree.py)
+[model code reference](./project_decision_tree.py)  
+![Visualize decision tree](./cart_sf_train.png)
