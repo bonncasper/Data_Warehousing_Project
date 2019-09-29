@@ -1,2 +1,9 @@
 # Data_Warehousing_Project
-Data analysis and model evaluation using Warehousing data
+# Problem Statement  
+TODO  
+# Exploratory Data Analysis (EDA)  
+TODO - Ximena  
+# Data Pre-processing
+TODO - Ximena
+# Model Building   
+TODO - Shaw
